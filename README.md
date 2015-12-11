@@ -8,7 +8,7 @@ Launch the server : `node server.js`
 
 Go to [http://localhost:3000/](http://localhost:3000/)
 
-And then you can modify the graph.DOT file. Your changes will be automatically take into account.
+And then you can modify the graph.DOT file. Your changes will be automatically taken into account.
 
 ## Dependencies:
 
